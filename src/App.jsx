@@ -16,7 +16,7 @@ const App = () => {
   return (
     <div>
       <Card x={LeftX} y={topX} rotate={rotate} />
-      <button className="active:scale(1.2)" onClick={changeposition}>
+      <button className="active:scale(1.2) " onClick={changeposition}>
         change position
       </button>
     </div>

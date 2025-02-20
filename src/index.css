@@ -11,11 +11,13 @@ body {
 }
 button {
   position: absolute;
-  padding: 20px 30px;
+  padding: 15px 20px;
   top: 50%;
   left: 50%;
+  background-color: greenyellow;
   transform: translate(-50%, -50%);
   font-size: 15px;
+  border-radius: 10px;
 }
 .img1 {
   position: absolute;
